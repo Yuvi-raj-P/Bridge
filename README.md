@@ -1,0 +1,4 @@
+Hello! I have made a bridge scene in blender. I was initailly planed on making a forest bridge but soon it be came into the bristol bridge. I couldnot finish it in time therefore its half done. This model also couldn't be uploaded to sketcfab or other experience platforms due to large size and due to that half of this project is in github and other half in my google drive. Also few materials are taken from BlenderKit but models are all mine expect the car models which I partially modified later. Below are the screenshots:
+![image](https://github.com/user-attachments/assets/60b840c8-0d4d-4703-b5bc-24acce9ce490)
+![Bridge17](https://github.com/user-attachments/assets/982deb24-4692-4741-b68e-8a1498504751)
+![Bridge13](https://github.com/user-attachments/assets/0e9ce3b4-3090-49f7-8438-4abc78eb8ee7)
